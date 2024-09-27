@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\bin\Debug\net8.0\03.Numbers1.withStep3.exe
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\bin\Debug\net8.0\03.Numbers1.withStep3.deps.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\bin\Debug\net8.0\03.Numbers1.withStep3.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\bin\Debug\net8.0\03.Numbers1.withStep3.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\bin\Debug\net8.0\03.Numbers1.withStep3.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\refint\03.Numbers1.withStep3.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\03.Numbers1.withStep3.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\03.Numbers1.withStep3\obj\Debug\net8.0\ref\03.Numbers1.withStep3.dll

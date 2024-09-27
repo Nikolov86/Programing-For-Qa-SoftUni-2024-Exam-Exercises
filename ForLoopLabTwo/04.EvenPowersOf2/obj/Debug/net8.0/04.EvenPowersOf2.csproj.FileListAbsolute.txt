@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.exe
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.deps.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\bin\Debug\net8.0\04.EvenPowersOf2.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\refint\04.EvenPowersOf2.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\04.EvenPowersOf2.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\04.EvenPowersOf2\obj\Debug\net8.0\ref\04.EvenPowersOf2.dll

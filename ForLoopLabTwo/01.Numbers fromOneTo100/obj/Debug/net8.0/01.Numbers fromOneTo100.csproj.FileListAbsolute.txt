@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\bin\Debug\net8.0\01.Numbers fromOneTo100.exe
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\bin\Debug\net8.0\01.Numbers fromOneTo100.deps.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\bin\Debug\net8.0\01.Numbers fromOneTo100.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\bin\Debug\net8.0\01.Numbers fromOneTo100.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\bin\Debug\net8.0\01.Numbers fromOneTo100.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\refint\01.Numbers fromOneTo100.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\01.Numbers fromOneTo100.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\01.Numbers fromOneTo100\obj\Debug\net8.0\ref\01.Numbers fromOneTo100.dll

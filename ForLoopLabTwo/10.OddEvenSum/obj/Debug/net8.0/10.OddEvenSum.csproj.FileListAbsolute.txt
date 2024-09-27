@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.exe
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.deps.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\bin\Debug\net8.0\10.OddEvenSum.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\refint\10.OddEvenSum.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\10.OddEvenSum.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\10.OddEvenSum\obj\Debug\net8.0\ref\10.OddEvenSum.dll

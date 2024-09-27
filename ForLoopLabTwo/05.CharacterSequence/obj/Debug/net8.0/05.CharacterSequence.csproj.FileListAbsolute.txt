@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.exe
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.deps.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\bin\Debug\net8.0\05.CharacterSequence.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\refint\05.CharacterSequence.dll
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.pdb
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\05.CharacterSequence.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLabTwo\05.CharacterSequence\obj\Debug\net8.0\ref\05.CharacterSequence.dll
