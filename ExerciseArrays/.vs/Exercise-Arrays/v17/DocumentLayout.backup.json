@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3415463E-7428-4C46-92E4-3F1A356BD8C1}|7.TopIntegers\\7.TopIntegers.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\7.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3415463E-7428-4C46-92E4-3F1A356BD8C1}|7.TopIntegers\\7.TopIntegers.csproj|solutionrelative:7.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92496FD3-F1A8-4F3D-A2AB-B5590595D32F}|6.ArrayRotation\\6.ArrayRotation.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\6.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92496FD3-F1A8-4F3D-A2AB-B5590595D32F}|6.ArrayRotation\\6.ArrayRotation.csproj|solutionrelative:6.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4013D0E4-7E48-4524-9DA9-0EFC66CCB8B5}|5. Zig-ZagArrays\\5. Zig-ZagArrays.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\5. zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4013D0E4-7E48-4524-9DA9-0EFC66CCB8B5}|5. Zig-ZagArrays\\5. Zig-ZagArrays.csproj|solutionrelative:5. zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33DCAF0-2105-456E-BF13-7015329D9AF2}|4.MagicSum\\4.MagicSum.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\4.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33DCAF0-2105-456E-BF13-7015329D9AF2}|4.MagicSum\\4.MagicSum.csproj|solutionrelative:4.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BC81F1-0BD8-445F-BEAC-0563FCA670E1}|3.CondenseArrayToNumber\\3.CondenseArrayToNumber.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\3.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BC81F1-0BD8-445F-BEAC-0563FCA670E1}|3.CondenseArrayToNumber\\3.CondenseArrayToNumber.csproj|solutionrelative:3.condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32315D0B-8DB3-457A-8C27-81CD4F658879}|2.CommonElements\\2.CommonElements.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\2.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32315D0B-8DB3-457A-8C27-81CD4F658879}|2.CommonElements\\2.CommonElements.csproj|solutionrelative:2.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534FBC01-2D30-46EA-AC7B-607B1F8EF4B0}|Exercise-Arrays\\1.EqualArrays.csproj|c:\\users\\nikola\\source\\repos\\1.equalarrays\\exercise-arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534FBC01-2D30-46EA-AC7B-607B1F8EF4B0}|Exercise-Arrays\\1.EqualArrays.csproj|solutionrelative:exercise-arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\7.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "7.TopIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\7.TopIntegers\\Program.cs",
+              "RelativeToolTip": "7.TopIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:16:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\6.ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "6.ArrayRotation\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\6.ArrayRotation\\Program.cs",
+              "RelativeToolTip": "6.ArrayRotation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:48:42.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\5. Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "5. Zig-ZagArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\5. Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "5. Zig-ZagArrays\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:26:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\4.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "4.MagicSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\4.MagicSum\\Program.cs",
+              "RelativeToolTip": "4.MagicSum\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:57:36.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\3.CondenseArrayToNumber\\Program.cs",
+              "RelativeDocumentMoniker": "3.CondenseArrayToNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\3.CondenseArrayToNumber\\Program.cs",
+              "RelativeToolTip": "3.CondenseArrayToNumber\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:04:37.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\2.CommonElements\\Program.cs",
+              "RelativeDocumentMoniker": "2.CommonElements\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\2.CommonElements\\Program.cs",
+              "RelativeToolTip": "2.CommonElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:59:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\Exercise-Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise-Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.EqualArrays\\Exercise-Arrays\\Program.cs",
+              "RelativeToolTip": "Exercise-Arrays\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:36:04.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.exe
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.deps.json
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.runtimeconfig.json
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.pdb
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\refint\6.ArrayRotation.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.pdb
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\6.ArrayRotation\obj\Debug\net8.0\ref\6.ArrayRotation.dll

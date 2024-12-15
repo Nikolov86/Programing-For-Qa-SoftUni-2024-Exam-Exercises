@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.exe
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.deps.json
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.runtimeconfig.json
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.pdb
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\refint\4.MagicSum.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.pdb
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\4.MagicSum\obj\Debug\net8.0\ref\4.MagicSum.dll

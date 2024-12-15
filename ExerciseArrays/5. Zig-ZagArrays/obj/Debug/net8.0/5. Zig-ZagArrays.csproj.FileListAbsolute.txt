@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\bin\Debug\net8.0\5. Zig-ZagArrays.exe
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\bin\Debug\net8.0\5. Zig-ZagArrays.deps.json
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\bin\Debug\net8.0\5. Zig-ZagArrays.runtimeconfig.json
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\bin\Debug\net8.0\5. Zig-ZagArrays.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\bin\Debug\net8.0\5. Zig-ZagArrays.pdb
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\refint\5. Zig-ZagArrays.dll
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.pdb
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\5. Zig-ZagArrays.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\1.EqualArrays\5. Zig-ZagArrays\obj\Debug\net8.0\ref\5. Zig-ZagArrays.dll
