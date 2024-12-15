@@ -1,1 +1,1 @@
-This is a section for training .
+This is a section for training and exams.
